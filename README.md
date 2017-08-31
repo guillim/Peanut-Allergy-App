@@ -1,5 +1,5 @@
 # Peanut-Allergy-App
-translate one sentence in every languages I could find. Works offline
+Translate one sentence in every languages I could find. Works offline. Useful for people with peanut allergy.
 
 ### Why this app
 
